@@ -1,0 +1,340 @@
+/* iPads (portrait and landscape) ----------- */
+@media (min-width: 768px) {
+	.pp_pic_holder{
+	  width: 45% !important;
+	}
+	.pp_details{ width: 95% !important; }
+	.pp_inline > img {
+	  width: 100%;
+	}
+}
+@media (max-width: 768px) {
+
+	body{ overflow-x: hidden;}
+	
+	#about {
+	  height: auto;
+	}
+	#header-slider .carousel-indicators li>img {
+	    width: 20px;
+	    height: 20px;
+	}
+    .navbar-header {
+        float: none;
+    }
+    .navbar-toggle {
+        display: block;
+    }
+    .navbar-collapse {
+        border-top: 1px solid transparent;
+        box-shadow: inset 0 1px 0 rgba(255,255,255,0.1);
+    }
+    .navbar-collapse.collapse {
+        display: none !important;
+    }
+    .navbar-fixed-top .navbar-collapse, 
+    .navbar-fixed-bottom .navbar-collapse {
+	  max-height: 420px;
+	  text-align: center;
+	}
+	.navbar-right {
+	    float: none !important;
+	    margin-right: -15px;
+	}
+    .navbar-nav {
+        float: none !important;
+        margin: 7.5px -15px;
+    }
+    .navbar-nav>li {
+        float: none;
+    }
+    .navbar-nav>li>a {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .navbar-text {
+        float: none;
+        margin: 15px 0;
+    }
+    .navbar-collapse.collapse.in {display: block!important;}
+    .collapsing {overflow: hidden!important; }
+    .navbar-nav {margin: 0 -15px;}
+    .navbar-nav .open .dropdown-menu > li > a, .navbar-nav .open .dropdown-menu .dropdown-header {
+        padding: 10px 15px 10px 25px;
+    }
+    .navbar-default .navbar-nav > li > a{ padding: 15px 20px;}
+    .logo {
+    	height: 75px;
+    	margin-top: -7px;
+    }
+    .navbar-default .navbar-toggle {
+    	padding: 22px 10px;
+    	border: 0;
+    }
+    .navbar-default .navbar-toggle:hover, 
+    .navbar-default .navbar-toggle:focus { background: transparent;}
+    .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+	  color: #FFF;
+	  background-color: rgb(52, 53, 54);
+	}
+	.img-hover:hover .hover-icon >i.fa{
+	  	display: block;
+	  	-ms-transform: translateY(140px); /* IE 9 */
+	    -webkit-transform: translateY(140px); /* Chrome, Safari, Opera */
+	    transform: translateY(140px);
+	}
+	.large-block .img-hover:hover .hover-icon >i.fa{
+	  	display: block;
+	  	-ms-transform: translateY(280px); /* IE 9 */
+	    -webkit-transform: translateY(280px); /* Chrome, Safari, Opera */
+	    transform: translateY(280px);
+	}
+	#header-slider .carousel-caption{
+		top: 150px;
+		text-align: center;
+	}
+	#bs-featured,
+	#bs-who,
+	#bs-about,
+	#bs-services{height: auto;}
+	ul.social-media li:after {
+	  width: auto;
+	  height: 2px;
+	  border-bottom: 0;
+	  content: ' ';
+	  position: relative;
+	  top: auto; 
+	  margin-left: 0;
+	  padding-right: 20px;
+	  padding-left: 20px;
+	}
+	.pp_content_container {
+	    position: relative;
+	    text-align: left;
+	    width: 100%;
+	    padding-top: 80px;
+	    background: #F1F5F8;
+	}
+	#bs-featured p{ display: none;}
+	ul.featured-works li img {
+	    width: 70px;
+	}
+	.team-block{ height: 320px;}
+	.team-block img.img-responsive {
+	  max-width: 150%;
+	  width: calc(100% + 200px);
+	  transform:  translate(-50px , -10px);
+	}
+	.team i.fa.fa-caret-left,
+	.team i.fa.fa-caret-right{ top: 140px}
+	.post-text i.fa.fa-caret-left,
+	.post-text i.fa.fa-caret-right{ display: none;}
+	.post{ 
+		height: auto;
+		margin-bottom: 30px
+	}
+	.post .hide{ 
+		display: block !important;
+		visibility: visible;
+	}
+	.mobile-hide{display: none;}
+	.form-btn {
+	    position: relative;
+	    right: auto;
+	    bottom: auto;
+	    margin-bottom: 50px;
+	}
+	.fullwidth #header-slider .carousel-caption {
+	  top: 120px;
+	  text-align: left;
+	}
+}
+
+@media (max-width: 603px) { 
+	#header-slider .carousel-caption h2{ display: none}
+	.section-title {padding: 15% 5% 15% 5%}
+	.img-hover:hover .hover-icon >i.fa{
+	  	display: block;
+	  	-ms-transform: translateY(220px); /* IE 9 */
+	    -webkit-transform: translateY(220px); /* Chrome, Safari, Opera */
+	    transform: translateY(220px);
+	}
+	.large-block .img-hover:hover .hover-icon >i.fa{
+	  	display: block;
+	  	-ms-transform: translateY(450px); /* IE 9 */
+	    -webkit-transform: translateY(450px); /* Chrome, Safari, Opera */
+	    transform: translateY(450px);
+	}
+	ul.social-media li:after {
+	  padding-right: 10px;
+	  padding-left: 10px;
+	}
+	a span.go-top{ 
+		float: right;
+		left: auto;
+	}
+	.team-block{ 
+		height: auto;
+		margin-bottom: 30px;
+		
+	}
+	.team,
+	.team.text-right{text-align: center !important; }
+	.team-block img.img-responsive {
+	  max-width: 100%;
+	  width: calc(100% + 200px);
+	  transform:  translate(0px , 0px);
+	}
+	.team i.fa.fa-caret-left,
+	.team i.fa.fa-caret-right{ display: none;}
+	.fullwidth #header-slider .carousel-caption {display: none;}
+}
+
+@media (max-width: 460px) {
+	h2{ font-size: 30px}
+	#header-slider{ margin-top: 75px;}
+	#bs-header .carousel-caption{ top: 50px;}
+	
+	.img-hover:hover .hover-icon >i.fa{
+	  	display: block;
+	  	-ms-transform: translateY(150px); /* IE 9 */
+	    -webkit-transform: translateY(150px); /* Chrome, Safari, Opera */
+	    transform: translateY(150px);
+	}
+	.large-block .img-hover:hover .hover-icon >i.fa{
+	  	display: block;
+	  	-ms-transform: translateY(320px); /* IE 9 */
+	    -webkit-transform: translateY(320px); /* Chrome, Safari, Opera */
+	    transform: translateY(320px);
+	}
+	ul.social-media li a i.fa {font-size: 30px;}
+	.pp_pic_holder.pp_default {
+	  width: 450px !important;
+	}
+	.pp_details {
+	  width: 420px !important;
+	}
+	.pp_content_container {
+	    position: relative;
+	    text-align: left;
+	    width: 100%;
+	    padding-top: 60px;
+	    background: #F1F5F8;
+	}
+	ul.featured-works li img {
+	  width: 55px;
+	  height: 55px;
+	}
+	ul.item-cat{padding: 30px 10px 0px 0px}
+	ul.item-cat li{
+		margin-bottom: 30px;
+	}
+	#bs-contact{ text-align: center;}
+	#post-slider{ 
+	  padding: 10px;
+	  margin-top: 5px;
+	}
+	#post-slider .carousel-indicators {
+	  bottom: 20px;
+	}
+	.post-content{
+	  padding: 40px 40px;
+	}
+}
+@media (max-width: 360px) { 
+	h2 {
+		font-size: 24px;
+		line-height: 22px;
+	}
+	.section-title {padding: 15% 5% 20% 5%;}
+	#bs-header .carousel-caption{ display: none;}
+	#header-slider .carousel-indicators li>img{ display: none;}
+	.img-hover:hover .hover-icon >i.fa{
+	  	display: block;
+	  	-ms-transform: translateY(110px); /* IE 9 */
+	    -webkit-transform: translateY(110px); /* Chrome, Safari, Opera */
+	    transform: translateY(110px);
+	}
+	.large-block .img-hover:hover .hover-icon >i.fa{
+	  	display: block;
+	  	-ms-transform: translateY(240px); /* IE 9 */
+	    -webkit-transform: translateY(240px); /* Chrome, Safari, Opera */
+	    transform: translateY(240px);
+	}
+	.pp_pic_holder.pp_default {
+	  width: 350px !important;
+	}
+	.pp_details {
+	  width: 320px !important;
+	}
+	.pp_content_container {
+	    position: relative;
+	    text-align: left;
+	    width: 100%;
+	    padding-top: 40px;
+	    background: #F1F5F8;
+	}
+	ul.social-media li a i.fa {
+	    font-size: 20px;
+	}
+	ul.clients li img {
+	  width: 100px;
+	  height: 100px;
+	  margin: 10px;
+	}
+	#bs-featured .section-title.content-block {
+	    padding: 10px 20px;
+	}
+}
+@media (max-width: 320px) { 
+	.container > .navbar-header, 
+	.container-fluid > .navbar-header, 
+	.container > .navbar-collapse, 
+	.container-fluid > .navbar-collapse {
+	    margin-right: 0;
+	    margin-left: 0;
+	}
+	.container {
+	    padding-right: 0;
+	    padding-left: 0;
+	    margin-right: auto;
+	    margin-left: auto;
+	}
+	h3{ font-size: 16px}
+	p {
+	    line-height: 20px;
+	    font-size: 12px;
+	}
+	.section-title.content-block {
+	    padding: 40px 30px;
+	}
+	.pp_pic_holder.pp_default {
+	  width: 310px !important;
+	}
+	.pp_details {
+	  width: 280px !important;
+	}
+	ul.item-social li a {
+	    width: 35px;
+	    height: 35px;
+	    padding: 7px;
+	}
+	ul.item-social.list-inline > li {
+	    padding-right: 3px;
+	    padding-left: 3px;
+	}
+	#bs-featured h2,
+	#bs-featured hr{ display: none;}
+	ul.featured-works.list-inline > li{
+	    padding-right: 3px;
+	    padding-left: 0;
+	}
+	.post,
+	.section-title,
+	#bs-footer{ 
+		padding-left: 10px;
+		padding-right: 10px
+	}
+	.price{ margin: 0px 20px 30px 20px;}
+
+}
