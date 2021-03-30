@@ -80,7 +80,7 @@ h1{
 h2{
     font-family: 'Passion One';
   letter-spacing: 5px;
-  color: #343536;
+  color: #ffffff;
   font-size: 36px;
   line-height: 36px;
   font-weight: 700;
@@ -88,7 +88,7 @@ h2{
 h3{
     font-family: 'Montserrat', sans-serif;
     font-size: 18px;
-  color: #343536;
+  color:  #11f3d7 ;
 }
 
 h4{
@@ -172,7 +172,7 @@ p{
 
 #active-menu{ 
     background: #ffffff;
-    border-color: #dabc74;
+    border-color:#7c05c8;
 }
 
 .navbar-default .navbar-nav > li > a {
@@ -187,7 +187,7 @@ p{
 .navbar-default .navbar-nav > .active > a:hover, 
 .navbar-default .navbar-nav > .active > a:focus {
   color: #ffffff;
-  background-color: #dabc74;
+  background-color: #7c05c8;
 }
 @media (min-width: 768px){
   .navbar-right {
@@ -208,10 +208,10 @@ p{
 }
 #what-we-do .section-title.content-block{
     padding: 54px 30px 54px 30px;
-	background: #dabc74;
+	background:   #7c05c8 ;
 }
 #what-we-do .section-title p{ 
-    color: #343536;
+    color: #ffffff;
 }
 .service{ margin-bottom: 10px;}
 
@@ -219,7 +219,7 @@ hr,
 .section-title hr{
   width: 45px;
   height: 4px;
-  background-color: #343536;
+  background-color:  #11f3d7 ;
   margin-top: 20px;
   border-top: 0;
 }
@@ -390,7 +390,7 @@ hr,
   border: 1px solid #fff;
 }
 .can-help li.active .ui-content span{
-    color: #dabc74;
+    color: #7c05c8;
 }
 
 /*--- 7. Donation Section 
@@ -820,8 +820,8 @@ ul.item-social li a:hover{
 /*---------------------------- common button property -----------------------------*/
 .common-btn {
   padding: 8px 20px;
-  background: #dabc74;
-  border: 2px solid #dabc74;
+  background: #7c05c8;;
+  border: 2px solid #7c05c8;;
   letter-spacing: 0px;
   margin-bottom: 20px;
   color: #ffffff;
@@ -860,14 +860,14 @@ ul.item-social li a:hover{
 
 .alert-danger {
   color: #333333;
-  background-color: #dabc74;
+  background-color:#7c05c8;
   border-color: #333333;
   border-radius: 0;
   margin-bottom: 30px;
 }
 .alert-success{
     color: #333333;
-    background-color: #dabc74;
+    background-color:#7c05c8;
     border-color: #333333;
     border-radius: 0;
     margin-bottom: 30px;
@@ -941,7 +941,7 @@ ul.item-social li a:hover{
   margin-bottom: 30px !important;
 }
 .uk-donate-now {
-  background:#dabc74;
+  background:#7c05c8;;
   padding: 10px 0;
   margin-left: 0;
   margin-right: 0;
@@ -1015,7 +1015,7 @@ ul.item-social li a:hover{
   background: #fff;
 }
 .recent-work .recent-work-item:hover a.recent-work-description {
-  background: #dabc74;
+  background:#7c05c8;;
     transition: all 0.9s ease;
     -o-transition: all 0.9s ease;
     -moz-transition: all 0.9s ease;
@@ -1057,7 +1057,7 @@ ul.item-social li a:hover{
     -webkit-transition: all 0.6s ease;  
 }
 .recent-work .recent-work-item .fa:hover {
-  color: #dabc74;
+  color:#7c05c8;;
 }
 .recent-work .recent-work-item .fa-link {
   left: -100px;
@@ -1108,7 +1108,7 @@ ul.item-social li a:hover{
 
 /*------------------------------ Recent activity nav tab -----------------------------*/
 .nav-tabs {
-  border-color: #dabc74;
+  border-color: #7c05c8;;
   padding-bottom: 1px;
   font-size: 14px;
   margin-bottom: 0;
@@ -1121,7 +1121,7 @@ ul.item-social li a:hover{
   border: none !important;
 }
 .nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {
-  background: #dabc74;
+  background: #7c05c8;
   color: #ffffff;
   padding: 5px 15px 4px;
 }
@@ -1172,7 +1172,7 @@ ul.item-social li a:hover{
   width: 100%;
   padding: 0;
   margin: 10px 0 0;
-  background-color: #dabc74;
+  background-color: #7c05c8;
   color: #FFFFFF;
   border: 0;
   padding: 10px;
@@ -1203,7 +1203,7 @@ ul.item-social li a:hover{
 }
 /* Box Services Style 1 */  
 .box-services-a .fa.fa-bg {
-      background-color: #dabc74;
+      background-color: #7c05c8;
       color:#fff;
       margin-right: 10px;
       -webkit-transition:all 0.3s ease-out;
@@ -1401,7 +1401,7 @@ ul.item-social li a:hover{
 }
 .event-schedule .nav-tabs > li.active > a,
 .event-schedule .nav-tabs > li > a:hover {
-    background: #dabc74;
+    background: #7c05c8;
     color: #fff;
     border: 1px solid #eb3739;
 	height: 40px;
@@ -1494,7 +1494,7 @@ footer .ac-bottom {
   border: 0;
   outline: none;
   color: #fff;
-  background: #dabc74;
+  background: #7c05c8;
   height: 44px;
   border-radius: 0;
 }
@@ -1615,7 +1615,7 @@ footer .ac-bottom {
   width: 60px ;
   height: 70px;
   float: left;
-  background: #dabc74;
+  background: #7c05c8;
 }
 .blog-section .entry-date {
   color: #fff; 
@@ -1659,7 +1659,7 @@ footer .ac-bottom {
   color: #1a1a1a;
 }
 .post-content .post-title a:hover {
-  color: #dabc74;
+  color: #7c05c8;
 } 
 .post-content .continue-reading a {
   text-transform: uppercase;
@@ -1669,7 +1669,7 @@ footer .ac-bottom {
 }
 .post-content .continue-reading a:hover {
   text-decoration: none;
-  border-bottom: 1px dotted #dabc74; 
+  border-bottom: 1px dotted #7c05c8;
 }
 .blog-section .btn-container {
   padding-top: 30px;
@@ -1869,7 +1869,7 @@ article.single-post {
     color: #a0a0a0;
 }
 .entry-meta a:hover {
-    color: #dabc74;
+    color: #7c05c8;
 }
 .entry-meta i {
     font-size: 14px;
@@ -1958,7 +1958,7 @@ article.single-post {
 }
 .comment-time a:hover,
 .comment-author a:hover {
-    color: #dabc74;
+    color: #7c05c8;
 }
 .comment-body .reply {
     display: inline-block;
@@ -1973,7 +1973,7 @@ article.single-post {
     color: #fff;
 }
 .comment-body .reply a:hover {
-    background: #dabc74;
+    background: #7c05c8;
 }
 /*  Comments  End
 --------------------------------------------*/
@@ -2141,7 +2141,7 @@ div.wpcf7-mail-sent-ok {
     font-weight: 700;
 }
 .comment-form .submit-btn:hover {
-    background: #dabc74;
+    background:#7c05c8;
 }
 /*  Comment Replay End
 --------------------------------------------------------------*/
@@ -2165,7 +2165,7 @@ div.wpcf7-mail-sent-ok {
 }
 .widget-title:before {
     position: absolute;
-    background: #dabc74;
+    background: #7c05c8;
     content: "";
     height: 11px;
     width: 4px;
@@ -2182,7 +2182,7 @@ div.wpcf7-mail-sent-ok {
     color: #4c4c4c;
 }
 .widget .latest-post .post-title:hover {
-    color: #dabc74;
+    color: #7c05c8;
 }
 .widget .widget_img {
     float: left;
@@ -2263,7 +2263,7 @@ div.wpcf7-mail-sent-ok {
     transition: all .25s ease;
 }
 .search-form button[type="submit"]:hover  {
-    background: #dabc74;
+    background: #7c05c8;
 }
 
 .widget_calendar table {
@@ -2322,7 +2322,7 @@ div.wpcf7-mail-sent-ok {
     color: #a0a0a0;
 }
 .widget_recent_comments a:hover {
-    color: #dabc74;
+    color: #7c05c8;
 }
 /*  Widget End
 -----------------------------------------------------*/
@@ -2361,7 +2361,7 @@ div.wpcf7-mail-sent-ok {
 .vertical-tabs .nav-tabs li.active a,
 .vertical-tabs .nav-tabs li a:hover {
     background-color: transparent;
-    color: #dabc74;
+    color: #7c05c8;
 }
 .vertical-tabs .tab-content {
     padding: 0 0 0 60px;
@@ -2403,7 +2403,7 @@ div.wpcf7-mail-sent-ok {
     top: 13px;
 }
 .events .date span {
-    background-color: #dabc74;
+    background-color: #7c05c8;
     display: block;
     height: 70px;
     padding: 8px 0 0 0;
@@ -2468,7 +2468,7 @@ div.wpcf7-mail-sent-ok {
     font-size: 0.875em;
 }
 .events-single .table i {
-    color: #dabc74;
+    color: #7c05c8;
     font-size: 1.5em;
 }
 .events-single .table td {
@@ -2482,7 +2482,7 @@ div.wpcf7-mail-sent-ok {
 
 blockquote {
     background-color: #E9E9E9;
-    border-color: #dabc74;
+    border-color: #7c05c8;
     color: #204560;
     font-size: 1.1em;
     font-style: italic;
@@ -2490,7 +2490,7 @@ blockquote {
     position: relative;
 }
 blockquote i {
-    background-color: #dabc74;
+    background-color: #7c05c8;
     -webkit-border-radius: 50%;
     border-radius: 50%;
     color: #eaf3f2;
@@ -2580,7 +2580,7 @@ section#video {
     background:#fff!important;
 }
 .tp-caption.label-danger{
-    background-color: #dabc74;
+    background-color: #7c05c8 ;
 }
 
 
