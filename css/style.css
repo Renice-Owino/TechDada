@@ -88,8 +88,8 @@ h2{
 h3{
   font-family: 'Montserrat', sans-serif;
   font-size: 18px;
-  color: #862888;
-  line-height: 36px;
+  color:  #06d7bd ;
+  line-height: 20px;
   font-weight: 700;
 }
 
@@ -151,11 +151,11 @@ p{
 
 
 .section-title{
-    /*background: #dabc74;*/
+    /*background: #862888;*/
     padding: 7%;
 }
 #our-works .section-title{
-    /*background: #dabc74;*/
+    /*background: #862888;*/
     padding: 7%;
 }
 .logo{
@@ -174,7 +174,7 @@ p{
 
 #active-menu{ 
     background: #ffffff;
-    border-color:#862888;
+    border-color: #862888;
 }
 
 .navbar-default .navbar-nav > li > a {
@@ -210,10 +210,10 @@ p{
 }
 #what-we-do .section-title.content-block{
     padding: 54px 30px 54px 30px;
-	background:  #862888 ;
+	background: #862888;
 }
 #what-we-do .section-title p{ 
-    color: #ffffff;
+    color: #343536;
 }
 .service{ margin-bottom: 10px;}
 
@@ -221,7 +221,7 @@ hr,
 .section-title hr{
   width: 45px;
   height: 4px;
-  background-color:  #11f3d7 ;
+  background-color: #343536;
   margin-top: 20px;
   border-top: 0;
 }
@@ -943,7 +943,7 @@ ul.item-social li a:hover{
   margin-bottom: 30px !important;
 }
 .uk-donate-now {
-  background: #862888;
+  background:#862888;
   padding: 10px 0;
   margin-left: 0;
   margin-right: 0;
@@ -1123,7 +1123,7 @@ ul.item-social li a:hover{
   border: none !important;
 }
 .nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {
-  background: #862888;
+  background:#862888;
   color: #ffffff;
   padding: 5px 15px 4px;
 }
@@ -1174,7 +1174,7 @@ ul.item-social li a:hover{
   width: 100%;
   padding: 0;
   margin: 10px 0 0;
-  background-color: #862888;
+  background-color:#862888;
   color: #FFFFFF;
   border: 0;
   padding: 10px;
@@ -1496,7 +1496,7 @@ footer .ac-bottom {
   border: 0;
   outline: none;
   color: #fff;
-  background: #862888;
+  background:#862888;
   height: 44px;
   border-radius: 0;
 }
@@ -1671,7 +1671,7 @@ footer .ac-bottom {
 }
 .post-content .continue-reading a:hover {
   text-decoration: none;
-  border-bottom: 1px dotted #862888;
+  border-bottom: 1px dotted #862888; 
 }
 .blog-section .btn-container {
   padding-top: 30px;
@@ -2143,7 +2143,7 @@ div.wpcf7-mail-sent-ok {
     font-weight: 700;
 }
 .comment-form .submit-btn:hover {
-    background:#862888;
+    background: #862888;
 }
 /*  Comment Replay End
 --------------------------------------------------------------*/
@@ -2167,7 +2167,7 @@ div.wpcf7-mail-sent-ok {
 }
 .widget-title:before {
     position: absolute;
-    background: #862888;
+    background:#862888;
     content: "";
     height: 11px;
     width: 4px;
@@ -2484,7 +2484,7 @@ div.wpcf7-mail-sent-ok {
 
 blockquote {
     background-color: #E9E9E9;
-    border-color: #908199;
+    border-color: #862888;
     color: #204560;
     font-size: 1.1em;
     font-style: italic;
@@ -2582,7 +2582,7 @@ section#video {
     background:#fff!important;
 }
 .tp-caption.label-danger{
-    background-color: #862888 ;
+    background-color: #862888;
 }
 
 
