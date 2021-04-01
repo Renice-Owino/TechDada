@@ -77,6 +77,7 @@ h1{
   line-height: 50px;
   font-weight: 700;
 }
+
 h2{
   font-family: 'Passion One';
   letter-spacing: 5px;
@@ -89,7 +90,7 @@ h3{
   font-family: 'Montserrat', sans-serif;
   font-size: 18px;
   color:  #06d7bd ;
-  line-height: 20px;
+  line-height: 14px;
   font-weight: 700;
 }
 
@@ -213,6 +214,7 @@ p{
 	background: #862888;
 }
 #what-we-do .section-title p{ 
+  margin-bottom: 20px;
     color: #343536;
 }
 .service{ margin-bottom: 10px;}
@@ -1542,7 +1544,6 @@ footer .ac-bottom {
 }
 .faq-group h2 {
   margin-top: 20px;
-  margin-bottom: 20px;
 }
 .faq-group .panel-title .num {
   font-size: .6em;
@@ -1554,7 +1555,7 @@ footer .ac-bottom {
   color: #fff;
   font-weight: 700;
   margin-right: 5px;
-  background-color: #33383d;
+  background-color: #862888;
 }
 .faq-group .panel-title a {
   color: #33383d;
