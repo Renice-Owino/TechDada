@@ -131,7 +131,7 @@ p{
 
 #active-menu{ 
     background: #ffffff;
-    border-color: #dabc74;
+    border-color: #862888;
 }
 
 .navbar-default .navbar-nav > li > a {
@@ -146,7 +146,7 @@ p{
 .navbar-default .navbar-nav > .active > a:hover, 
 .navbar-default .navbar-nav > .active > a:focus {
   color: #ffffff;
-  background-color: #dabc74;
+  background-color: #862888;
 }
 @media (min-width: 768px){
   .navbar-right {
@@ -167,7 +167,7 @@ p{
 }
 #what-we-do .section-title.content-block{
     padding: 54px 30px 54px 30px;
-	background: #dabc74;
+	background: #862888;
 }
 #what-we-do .section-title p{ 
     color: #343536;
@@ -349,7 +349,7 @@ hr,
   border: 1px solid #fff;
 }
 .can-help li.active .ui-content span{
-    color: #dabc74;
+    color: #862888;
 }
 
 /*--- 7. Donation Section 
@@ -779,8 +779,8 @@ ul.item-social li a:hover{
 /*---------------------------- common button property -----------------------------*/
 .common-btn {
   padding: 8px 20px;
-  background: #dabc74;
-  border: 2px solid #dabc74;
+  background: #862888;
+  border: 2px solid #862888;
   letter-spacing: 0px;
   margin-bottom: 20px;
   color: #ffffff;
@@ -819,14 +819,14 @@ ul.item-social li a:hover{
 
 .alert-danger {
   color: #333333;
-  background-color: #dabc74;
+  background-color: #862888;
   border-color: #333333;
   border-radius: 0;
   margin-bottom: 30px;
 }
 .alert-success{
     color: #333333;
-    background-color: #dabc74;
+    background-color: #862888;
     border-color: #333333;
     border-radius: 0;
     margin-bottom: 30px;
@@ -890,8 +890,6 @@ ul.item-social li a:hover{
 
 
 
-
-
 /*--- 15. Recent activities  
 =====================================================================================*/
 
@@ -900,7 +898,7 @@ ul.item-social li a:hover{
   margin-bottom: 30px !important;
 }
 .uk-donate-now {
-  background:#dabc74;
+  background: #862888;
   padding: 10px 0;
   margin-left: 0;
   margin-right: 0;
@@ -974,7 +972,7 @@ ul.item-social li a:hover{
   background: #fff;
 }
 .recent-work .recent-work-item:hover a.recent-work-description {
-  background: #dabc74;
+  background: #862888;
     transition: all 0.9s ease;
     -o-transition: all 0.9s ease;
     -moz-transition: all 0.9s ease;
@@ -1016,7 +1014,7 @@ ul.item-social li a:hover{
     -webkit-transition: all 0.6s ease;  
 }
 .recent-work .recent-work-item .fa:hover {
-  color: #dabc74;
+  color: #862888;
 }
 .recent-work .recent-work-item .fa-link {
   left: -100px;
@@ -1067,7 +1065,7 @@ ul.item-social li a:hover{
 
 /*------------------------------ Recent activity nav tab -----------------------------*/
 .nav-tabs {
-  border-color: #dabc74;
+  border-color: #862888;
   padding-bottom: 1px;
   font-size: 14px;
   margin-bottom: 0;
@@ -1080,7 +1078,7 @@ ul.item-social li a:hover{
   border: none !important;
 }
 .nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {
-  background: #dabc74;
+  background: #862888;
   color: #ffffff;
   padding: 5px 15px 4px;
 }
@@ -1131,7 +1129,7 @@ ul.item-social li a:hover{
   width: 100%;
   padding: 0;
   margin: 10px 0 0;
-  background-color: #dabc74;
+  background-color: #862888;
   color: #FFFFFF;
   border: 0;
   padding: 10px;
@@ -1162,7 +1160,7 @@ ul.item-social li a:hover{
 }
 /* Box Services Style 1 */  
 .box-services-a .fa.fa-bg {
-      background-color: #dabc74;
+      background-color: #862888;
       color:#fff;
       margin-right: 10px;
       -webkit-transition:all 0.3s ease-out;
@@ -1360,7 +1358,7 @@ ul.item-social li a:hover{
 }
 .event-schedule .nav-tabs > li.active > a,
 .event-schedule .nav-tabs > li > a:hover {
-    background: #dabc74;
+    background: #862888;
     color: #fff;
     border: 1px solid #eb3739;
 	height: 40px;
@@ -1453,7 +1451,7 @@ footer .ac-bottom {
   border: 0;
   outline: none;
   color: #fff;
-  background: #dabc74;
+  background: #862888;
   height: 44px;
   border-radius: 0;
 }
@@ -1574,7 +1572,7 @@ footer .ac-bottom {
   width: 60px ;
   height: 70px;
   float: left;
-  background: #dabc74;
+  background: #862888;
 }
 .blog-section .entry-date {
   color: #fff; 
@@ -1618,7 +1616,7 @@ footer .ac-bottom {
   color: #1a1a1a;
 }
 .post-content .post-title a:hover {
-  color: #dabc74;
+  color: #862888;
 } 
 .post-content .continue-reading a {
   text-transform: uppercase;
@@ -1628,7 +1626,7 @@ footer .ac-bottom {
 }
 .post-content .continue-reading a:hover {
   text-decoration: none;
-  border-bottom: 1px dotted #dabc74; 
+  border-bottom: 1px dotted #862888; 
 }
 .blog-section .btn-container {
   padding-top: 30px;
@@ -1828,7 +1826,7 @@ article.single-post {
     color: #a0a0a0;
 }
 .entry-meta a:hover {
-    color: #dabc74;
+    color: #862888;
 }
 .entry-meta i {
     font-size: 14px;
@@ -1917,7 +1915,7 @@ article.single-post {
 }
 .comment-time a:hover,
 .comment-author a:hover {
-    color: #dabc74;
+    color: #862888;
 }
 .comment-body .reply {
     display: inline-block;
@@ -1932,7 +1930,7 @@ article.single-post {
     color: #fff;
 }
 .comment-body .reply a:hover {
-    background: #dabc74;
+    background: #862888;
 }
 /*  Comments  End
 --------------------------------------------*/
@@ -2100,7 +2098,7 @@ div.wpcf7-mail-sent-ok {
     font-weight: 700;
 }
 .comment-form .submit-btn:hover {
-    background: #dabc74;
+    background: #862888;
 }
 /*  Comment Replay End
 --------------------------------------------------------------*/
@@ -2124,7 +2122,7 @@ div.wpcf7-mail-sent-ok {
 }
 .widget-title:before {
     position: absolute;
-    background: #dabc74;
+    background: #862888;
     content: "";
     height: 11px;
     width: 4px;
@@ -2141,7 +2139,7 @@ div.wpcf7-mail-sent-ok {
     color: #4c4c4c;
 }
 .widget .latest-post .post-title:hover {
-    color: #dabc74;
+    color: #862888;
 }
 .widget .widget_img {
     float: left;
@@ -2222,7 +2220,7 @@ div.wpcf7-mail-sent-ok {
     transition: all .25s ease;
 }
 .search-form button[type="submit"]:hover  {
-    background: #dabc74;
+    background: #862888;
 }
 
 .widget_calendar table {
@@ -2281,7 +2279,7 @@ div.wpcf7-mail-sent-ok {
     color: #a0a0a0;
 }
 .widget_recent_comments a:hover {
-    color: #dabc74;
+    color: #862888;
 }
 /*  Widget End
 -----------------------------------------------------*/
@@ -2320,7 +2318,7 @@ div.wpcf7-mail-sent-ok {
 .vertical-tabs .nav-tabs li.active a,
 .vertical-tabs .nav-tabs li a:hover {
     background-color: transparent;
-    color: #dabc74;
+    color:#862888;
 }
 .vertical-tabs .tab-content {
     padding: 0 0 0 60px;
